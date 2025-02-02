@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **react web applications**
 
-- 🌱 I’m currently learning **react, node js, express, mysql**
+- 🌱 I’m currently learning **React, Node JS, Express, SQL Server, .Net Web API**
 
-- 💬 Ask me about **react, node js, express, mysql**
+- 💬 Ask me about **React, Node JS, Express, SQL Server, .Net Web API**
 
 - 📫 How to reach me **rohit.mahadik.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fdg3q7lJFb0zGnIMMrO_N3fGCpSjMT5x/view?usp=sharing](https://drive.google.com/file/d/1Fdg3q7lJFb0zGnIMMrO_N3fGCpSjMT5x/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y-3Ruxn11x7mGC-ko8zk2WluKkAoBZuT/view?usp=sharing].
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codding image" widht="70%" style="display: block; margin: 0 auto;">
 <h3 align="left">Connect with me:</h3>
